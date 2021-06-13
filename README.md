@@ -1,1 +1,3 @@
-# Practica1-Busqueda
+### Practica1-Busqueda
+#### Primera practica de la asignatura Fundamentos de los Sistemas Inteligentes
+#### Para esta primera práctica y partiendo de la búsqueda en anchura y búsqueda en profundidad será necesario realizar, además, un método de ramificación y acotación perteneciente a la búsqueda no informada y posteriormente una estrategia de ramificación y acotación con subestimación perteneciente a la búsqueda informada a raíz de un código proporcionado. Además de centrarnos en el coste acumulado de un camino, también se utilizará una estimación heurística hasta el estado final o estado objetivo que se pretende alcanzar. El objetivo es encontrar un camino óptimo en la lista abierta. Para este trabajo se utilizará un grafo donde se representan las ciudades de Rumanía.
